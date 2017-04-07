@@ -1,0 +1,41 @@
+.studentCard{
+    height: 500px;
+    width: 500px;
+    border: 1px solid #ccc;
+    overflow: auto;
+    margin: auto;
+    padding: 30px;
+    font: 16px/26px Georgia, Garamond, Serif;
+}
+
+.currentSpeaker{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border:2px solid brown;
+}
+
+.probableCurrentSpeaker{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:2px solid brown;
+}
+
+
+.previousSpeaker{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border:2px solid brown;
+}
+
+.participationCard{
+    height: 450px;
+    width: 500px;
+    border: 1px solid #ccc;
+    overflow: auto;
+    margin: auto;
+    padding: 30px;
+    font: 16px/26px Georgia, Garamond, Serif;
+}
